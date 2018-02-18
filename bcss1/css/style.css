@@ -18,10 +18,12 @@ body {
 	width: 100%;
 }
 
-.h2 {
-	text-align:  center;
+h2 {
+	text-align: center;
 	margin: 20px;
 }
+
+
 
 p {
 	font-size: 14pt;
