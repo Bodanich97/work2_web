@@ -1,0 +1,39 @@
+.main-block {
+    background: deepskyblue;
+    background-position: top left;
+    width: 330px;
+    height: 300px;
+}
+.clouds {
+    position: absolute;
+    left: 120px;
+    top: 10px;
+    width: 200px;
+    height: 150px;
+}
+
+.water {
+    position: absolute;
+    left: 8px;
+    top: 290px;
+    width: 330px;
+    height: 20px;
+}
+
+.world {
+    position: absolute;
+    left: 8px;
+    top: 130px;
+    width: 300px;
+    height: 150px;
+}
+
+
+.wooden {
+    position: absolute;
+    left: 15px;
+    top: 225px;
+    width: 70px;
+    height: 150px;
+}
+
